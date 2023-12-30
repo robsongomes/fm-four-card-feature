@@ -85,7 +85,8 @@ header p {
     padding: 1.5rem;
     margin: 1.5rem 0;
     border-radius: 8px;
-    box-shadow: 5px 5px 30px -5px var(--grayish-blue);   
+    /* box-shadow: 5px 5px 30px -5px var(--grayish-blue);    */
+    box-shadow: 0 15px 30px -11px rgba(131, 166, 210, 0.50);
 }
 
 .card:first-of-type {
